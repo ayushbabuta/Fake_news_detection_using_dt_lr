@@ -27,6 +27,15 @@ Python
 
 Scikit-learn
 
+Author
+
+Ayush Babuta
+
+BCA Student – JC Bose University of Science and Technology
+
+
+
+
 NLTK
 
 Pandas, NumPy
